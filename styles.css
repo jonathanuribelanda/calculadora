@@ -1,0 +1,9 @@
+/* filepath: /workspaces/calculadora/styles.css */
+.calculator {
+    background-color: red;
+    /* otros estilos existentes */
+}
+
+.button:hover {
+    background-color: #ddd;
+}
